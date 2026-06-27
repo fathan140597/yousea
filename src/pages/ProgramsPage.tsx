@@ -240,7 +240,7 @@ export function ProgramsPage() {
                 </ul>
 
                 <Link
-                  to="/keanggotaan"
+                  to="https://docs.google.com/forms/d/e/1FAIpQLSe_PorL04NPjXqp_oKKuZ9iHV7z6o6x46ohquAjy0Oty0J75A/viewform"
                   className="btn-primary mt-8 inline-flex"
                 >
                   Bergabung dengan Divisi Ini
@@ -351,7 +351,7 @@ export function ProgramsPage() {
             datang. Ikuti media sosial kami!
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-            <Link to="/keanggotaan" className="btn-primary px-8 py-4">
+            <Link to="https://docs.google.com/forms/d/e/1FAIpQLSe_PorL04NPjXqp_oKKuZ9iHV7z6o6x46ohquAjy0Oty0J75A/viewform" className="btn-primary px-8 py-4">
               <Users className="w-5 h-5 mr-2" />
               Daftar Anggota
             </Link>
