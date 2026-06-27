@@ -164,7 +164,7 @@ export function HomePage() {
             <div className="relative">
               <div className="aspect-video rounded-2xl overflow-hidden shadow-2xl">
                 <img
-                  src="https://images.pexels.com/photos/3184325/pexels-photo-3184325.jpeg?auto=compress&cs=tinysrgb&w=800"
+                  src="/profil.jpg"
                   alt="YouSea Community Activities"
                   className="w-full h-full object-cover"
                 />

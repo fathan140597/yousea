@@ -39,7 +39,7 @@ const divisions: Division[] = [
       'Makrab (Malam Keakraban)',
       'Musyawarah Besar (Mubes)',
     ],
-    image: 'https://images.pexels.com/photos/3184325/pexels-photo-3184325.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: "/kader.jpg",
     
   },
   {
@@ -57,8 +57,8 @@ const divisions: Division[] = [
       'Bimbingan Beasiswa',
       'YouSea Mengajar',
     ],
-    image: //'https://images.pexels.com/photos/4144923/pexels-photo-4144923.jpeg?auto=compress&cs=tinysrgb&w=800',
-    'mengajar.png'
+    image: "/Pendidikan.jpg",
+    
   },
   {
     id: 'sosial',
@@ -75,7 +75,7 @@ const divisions: Division[] = [
       'Inkubator Bisnis',
       'Penanaman Mangrove/Reboisasi',
     ],
-    image: 'https://images.pexels.com/photos/1000653/pexels-photo-1000653.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: "/Sosial.jpg",
   },
   {
     id: 'media',
@@ -92,7 +92,7 @@ const divisions: Division[] = [
       'Video Documentation',
       'Website Management',
     ],
-    image: 'https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: "/pubdok.jpg",
   },
 ];
 
