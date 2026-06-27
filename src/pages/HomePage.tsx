@@ -122,7 +122,7 @@ export function HomePage() {
             </p>
 
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-              <Link to="/keanggotaan" className="btn-primary text-lg px-8 py-4">
+              <Link to="https://docs.google.com/forms/d/e/1FAIpQLSe_PorL04NPjXqp_oKKuZ9iHV7z6o6x46ohquAjy0Oty0J75A/viewform" className="btn-primary text-lg px-8 py-4">
                 Gabung Komunitas
                 <ArrowRight className="w-5 h-5 ml-2" />
               </Link>
